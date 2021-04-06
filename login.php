@@ -10,7 +10,7 @@
 echo "<img src='auction_logo.png' id='logo'>";
 echo "<br>";
 echo "<form action='check_login.php' class='login_form' method='POST'>";
-echo "<h4> Please do Login</h4>";
+echo "<h4> Please do Login on new branch</h4>";
 echo "<label for='username' class='label'> Username:</label>";
 echo "<input class='text' type='text' name='username' placeholder='Username'>";
 echo "<br>";
